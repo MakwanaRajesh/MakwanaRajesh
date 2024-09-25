@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hello, I'm [Makwana Rajesh]!
 
-<!--
-**MakwanaRajesh/MakwanaRajesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a [Your Job Title] with a passion for [Your Interests]. I love building [Type of Projects] and learning new technologies.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: HTML, CSS, JavaScript, [Other Languages]
+- **Frameworks**: React, Node.js, [Other Frameworks]
+- **Tools**: Git, GitHub, [Other Tools]
+
+## 🌱 I’m currently learning
+
+- [Current Learning Focus]
+- [Any New Technologies or Frameworks]
+
+## 💼 Projects
+
+Here are some of my notable projects:
+
+- **[Project 1 Name]**: [Brief Description]
+- **[Project 2 Name]**: [Brief Description]
+- **[Project 3 Name]**: [Brief Description]
+
+## 📫 Get in Touch
+
+- [LinkedIn Profile](your-linkedin-url)
+- [Twitter](your-twitter-url)
+- [Personal Website/Portfolio](your-website-url)
+
+## 🔗 My GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
