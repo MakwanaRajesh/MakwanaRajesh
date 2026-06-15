@@ -55,15 +55,14 @@
 
 ### 📂 Featured Projects
 
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **Student Project Manager** | System to track full project lifecycles, monitoring meeting logs and progress with Role-Based Access Control. | `Next.js`, `.NET Web API`, `MySQL` | [🔗 View Project](https://github.com/MakwanaRajesh/Student-Project-Manager) |
-| **Loan Default Prediction** | ML application to assess financial risk using Scikit-learn models and secure RESTful APIs with JWT authentication. | `Python`, `Flask`, `React.js`, `MongoDB` | [🔗 View Project](https://github.com/MakwanaRajesh/Loan-ML) |
-| **School Management System** | Modular dashboard for attendance and enrollment tracking with complex relational schemas for data consistency. | `React.js`, `.NET Web API`, `SQL Server` | [🔗 View Project](https://github.com/balkrushnapatel/School_Management_System_API_React) |
-| **Quiz Management System** | Implemented dynamic scoring logic and automated result calculation for real-time quiz management. | `.NET Core`, `SQL Server` | [🔗 View Project](https://github.com/MakwanaRajesh/Quiz_Management) |
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Student Project Manager** | System to track full project lifecycles, monitoring meeting logs and progress with Role-Based Access Control. | `Next.js`, `.NET Web API`, `MySQL` |
+| **Loan Default Prediction** | ML application to assess financial risk using Scikit-learn models and secure RESTful APIs with JWT authentication. | `Python`, `Flask`, `React.js`, `MongoDB` |
+| **School Management System** | Modular dashboard for attendance and enrollment tracking with complex relational schemas for data consistency. | `React.js`, `.NET Web API`, `SQL Server` |
+| **Quiz Management System** | Implemented dynamic scoring logic and automated result calculation for real-time quiz management. | `.NET Core`, `SQL Server` |
 
 ---
-
 
 ### 📫 Connect With Me
 
